@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 8,
-  "versionName": "1.6.0",
+  "versionCode": 9,
+  "versionName": "1.7.0",
   "minSdk": 23,
-  "sha256": "f20ba0e40dabd8f06f163feda015927e6e071504447cbe7af3eefbaf03e4c38e",
-  "size": 2891003,
+  "sha256": "4ffdd7c1c3e5854dea01f1820036d21625aa9cfd4371951709e297813b37af8d",
+  "size": 2907374,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "TV-Guide (EPG), Jetzt/Danach, Programmsuche, Ablauf-Hinweis fuer Zugaenge",
-  "published": "2026-10-18T14:37:56Z"
+  "notes": "Neues Layout: Symbol-Leiste links, Live-TV als eine Ansicht mit Vorschau und Zeitachse, schlankes Suchfeld, Programm-Hinweise, Ablauf-Hinweis auch vom Server",
+  "published": "2026-10-18T15:53:53Z"
 }
