@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 4,
-  "versionName": "1.2.0",
+  "versionCode": 5,
+  "versionName": "1.3.0",
   "minSdk": 23,
-  "sha256": "92a49cec89b2fc88f5e92c47164a9750d1a292a099270f6e799ca61332bffe17",
-  "size": 2604161,
+  "sha256": "d4a450cd5b90e8dc2836bfaf6715346f55c60c43b74b86540da3553ee4733795",
+  "size": 2636938,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Suche (z. B. FC Bayern) ueber Live-TV, Filme und Serien; Absturz beim Abspielen behoben; Intro-Animation; Letzter-Absturz-Bericht",
-  "published": "2026-10-18T07:52:29Z"
+  "notes": "Login mit Streamo-Konto, Quellen-Sync, kompletter Xtream-Link",
+  "published": "2026-10-18T08:29:46Z"
 }
