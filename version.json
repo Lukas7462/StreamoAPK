@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 3,
-  "versionName": "1.1.0",
+  "versionCode": 4,
+  "versionName": "1.2.0",
   "minSdk": 23,
-  "sha256": "41c4bd1eef3e9dcd1c3cdcda8c1491b42ec2466076c90e3c47335d4e80023c35",
-  "size": 2478708,
+  "sha256": "92a49cec89b2fc88f5e92c47164a9750d1a292a099270f6e799ca61332bffe17",
+  "size": 2604161,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Erste echte Version: Live-TV, Filme, Serien",
-  "published": "2026-10-17T23:16:13Z"
+  "notes": "Suche (z. B. FC Bayern) ueber Live-TV, Filme und Serien; Absturz beim Abspielen behoben; Intro-Animation; Letzter-Absturz-Bericht",
+  "published": "2026-10-18T07:52:29Z"
 }
