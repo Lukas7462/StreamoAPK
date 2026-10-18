@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 9,
-  "versionName": "1.7.0",
+  "versionCode": 10,
+  "versionName": "1.7.1",
   "minSdk": 23,
-  "sha256": "4ffdd7c1c3e5854dea01f1820036d21625aa9cfd4371951709e297813b37af8d",
-  "size": 2907374,
+  "sha256": "3e30e77d6b21231799d8edd5b36125b68889681ba15002c992dc10d7c0a8c268",
+  "size": 2908068,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Neues Layout: Symbol-Leiste links, Live-TV als eine Ansicht mit Vorschau und Zeitachse, schlankes Suchfeld, Programm-Hinweise, Ablauf-Hinweis auch vom Server",
-  "published": "2026-10-18T15:53:53Z"
+  "notes": "Anzeigegröße einstellbar (70 bis 130 %, Schrift und Bedienelemente), ruhigere Puffer-Anzeige im Player, Fokus beim Start auf den Inhalt, Links springt zur verlassenen Kategorie, ausgeklappte Leiste schiebt den Inhalt zur Seite",
+  "published": "2026-10-18T19:20:46Z"
 }
