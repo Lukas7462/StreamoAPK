@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 11,
-  "versionName": "1.7.2",
+  "versionCode": 12,
+  "versionName": "1.7.3",
   "minSdk": 23,
-  "sha256": "b8e03b357dcefa8e92c0208ca17d2eda2398e30e2705c87669c6148a19289136",
-  "size": 2940835,
+  "sha256": "327d627e8016386706d12e1bc262ab1b8c127bba14c23b82d95b10f326861e8b",
+  "size": 2941269,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Live-Vorschau auch bei Zugängen mit nur einer Verbindung (nahtlose Übergabe ins Vollbild und zurück, ohne zweite Verbindung), Einstellungen und Quellen am Streamo-Konto: Anzeigegröße, Puffer, Live-Format und Aktualisierung gelten auf allen Geräten, Quellen hinzufügen/umbenennen/löschen schreibt ins Konto, Änderungen anderer Geräte werden automatisch übernommen",
-  "published": "2026-10-18T20:07:34Z"
+  "notes": "Sender: Decoder-Fehler mitten im Stream (z. B. bei Werbeunterbrechungen) führen nicht mehr zur falschen Meldung Videoformat wird nicht unterstützt. Die App baut das Bild stattdessen leise neu auf (bis zu 4 Versuche, nur ein kleiner grauer Hinweis oben links), bei anhaltenden Problemen erscheint eine ehrliche Meldung zum erneuten Versuchen. Gilt auch für Filme, Serien und die Live-Vorschau. Echte Formatprobleme nennen jetzt den Grund (Auflösung, Profil).",
+  "published": "2026-10-18T22:10:23Z"
 }
