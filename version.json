@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 7,
-  "versionName": "1.5.0",
+  "versionCode": 8,
+  "versionName": "1.6.0",
   "minSdk": 23,
-  "sha256": "0fc83730763c25f937048c1f35f436705d7481aef9e76e0c2bddc002202e687f",
-  "size": 2841843,
+  "sha256": "f20ba0e40dabd8f06f163feda015927e6e071504447cbe7af3eefbaf03e4c38e",
+  "size": 2891003,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Weiterschauen, Zuletzt gesehen, deutsche Titel, Sprachfilter, Konto-Status, schonendes Laden",
-  "published": "2026-10-18T13:25:55Z"
+  "notes": "TV-Guide (EPG), Jetzt/Danach, Programmsuche, Ablauf-Hinweis fuer Zugaenge",
+  "published": "2026-10-18T14:37:56Z"
 }
