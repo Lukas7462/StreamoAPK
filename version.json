@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 12,
-  "versionName": "1.7.3",
+  "versionCode": 13,
+  "versionName": "1.8.0",
   "minSdk": 23,
-  "sha256": "327d627e8016386706d12e1bc262ab1b8c127bba14c23b82d95b10f326861e8b",
-  "size": 2941269,
+  "sha256": "b52a59fa59a96c620a81ecc7ceba96e275bdaf660649ea23b9414e5a30ffa37f",
+  "size": 2990452,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Sender: Decoder-Fehler mitten im Stream (z. B. bei Werbeunterbrechungen) führen nicht mehr zur falschen Meldung Videoformat wird nicht unterstützt. Die App baut das Bild stattdessen leise neu auf (bis zu 4 Versuche, nur ein kleiner grauer Hinweis oben links), bei anhaltenden Problemen erscheint eine ehrliche Meldung zum erneuten Versuchen. Gilt auch für Filme, Serien und die Live-Vorschau. Echte Formatprobleme nennen jetzt den Grund (Auflösung, Profil).",
-  "published": "2026-10-18T22:10:23Z"
+  "notes": "Sprachansagen: Der Fernseher liest Antworten auf Sprachbefehle vor, die du am Handy oder im Browser auf streamo.fummel.eu an den Fernseher schickst, und sagt Spiele deiner Lieblingsvereine und Erinnerungen an (z. B. „FC Bayern München gegen Borussia Dortmund beginnt in 10 Minuten auf Sky Sport“). Einstellbar unter Einstellungen → Sprachansagen. Updates: Die App sucht jetzt bei jedem Öffnen und alle 12 Stunden nach einer neuen Version und bietet sie an (nie während der Wiedergabe). Abschaltbar in den Einstellungen unter „Automatisch nach Updates suchen“.",
+  "published": "2026-10-20T19:19:04Z"
 }
