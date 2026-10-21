@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 14,
-  "versionName": "1.8.1",
+  "versionCode": 15,
+  "versionName": "1.8.2",
   "minSdk": 23,
-  "sha256": "d6f4fc855aaa33d472f01c3f07cd16415322ebe9814cc405b0e22c84cf38d578",
-  "size": 2990460,
+  "sha256": "8621368e36e75c0b0548e529fdc499931cdc1194152109b0bfe04868e297a317",
+  "size": 2990466,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Sprachansagen: Der Fernseher spricht jetzt wirklich. Die Amazon-Stimme auf dem Fire TV kann kein Deutsch, darum war es bisher still. Streamo nimmt jetzt automatisch eine deutsche Stimme (Android-Stimme). Unter Einstellungen → Sprachansagen steht, welche Stimme aktiv ist. Neu: Einstellungen → Darstellung → Bildrand (2, 4 oder 6 %) für Fernseher, die den Bildrand abschneiden (z. B. fehlt links die Uhrzeit). Suche: „psg“ oder „fc barca“ zeigen die Spiele mit deutschem Kommentar zuerst.",
-  "published": "2026-10-21T17:13:36Z"
+  "notes": "Einstellungen: Alle Seiten lassen sich jetzt bis ganz unten durchblättern (z. B. Sprachansagen und Bildrand), Hinweise unter einem Knopf rücken mit ins Bild. Sprachansagen: bessere Aussprache der Android-Stimme (Streamo, DAZN, Sky, „DAZN 1“ statt „DAZN erste“).",
+  "published": "2026-10-21T17:31:15Z"
 }
