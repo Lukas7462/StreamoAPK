@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 15,
-  "versionName": "1.8.2",
+  "versionCode": 16,
+  "versionName": "1.9.0",
   "minSdk": 23,
-  "sha256": "8621368e36e75c0b0548e529fdc499931cdc1194152109b0bfe04868e297a317",
-  "size": 2990466,
+  "sha256": "10e2c66337e06ceffa1eb41072488c19bd73f143df9c546fdfcccc9da96e41ba",
+  "size": 2990461,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Einstellungen: Alle Seiten lassen sich jetzt bis ganz unten durchblättern (z. B. Sprachansagen und Bildrand), Hinweise unter einem Knopf rücken mit ins Bild. Sprachansagen: bessere Aussprache der Android-Stimme (Streamo, DAZN, Sky, „DAZN 1“ statt „DAZN erste“).",
-  "published": "2026-10-21T17:31:15Z"
+  "notes": "Neue Streamo-Stimme: Ansagen und Antworten spricht jetzt eine natürliche deutsche Stimme vom Streamo-Server (nur mit Streamo-Konto). Ist der Server nicht erreichbar, spricht der Fernseher wie bisher mit seiner eigenen Stimme. Einstellbar unter Einstellungen → Sprachansagen → „Streamo-Stimme vom Server“.",
+  "published": "2026-10-21T18:00:44Z"
 }
