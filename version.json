@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 17,
-  "versionName": "1.9.1",
+  "versionCode": 18,
+  "versionName": "1.9.2",
   "minSdk": 23,
-  "sha256": "cb143a8da975801947e5f376b0ff5c5a4de23deee0c4d91f4a31f49c36dd2946",
-  "size": 2990460,
+  "sha256": "3c8cc3b9bd0cfd19b678ed161f6c868b9057d0dfc5a17d40b617d1b917c3be14",
+  "size": 3006851,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Stimme auswählen: Unter Einstellungen → Sprachansagen → „Stimme“ kannst du jetzt direkt am Fernseher zwischen den Streamo-Stimmen wählen (z. B. Daniel, Brian, Eric, Matilda, Lily). Nach der Auswahl sagt die neue Stimme einen Probesatz. Die Wahl gilt für dein Streamo-Konto, also auch auf streamo.fummel.eu.",
-  "published": "2026-10-21T20:04:43Z"
+  "notes": "Gemeinsam schauen: Wenn jemand anderes mit seinem Streamo-Konto gerade Live-TV schaut, erscheint oben kurz ein Hinweis, z. B. „Papa schaut gerade DAZN 1“ mit der laufenden Sendung. Was du selbst live schaust, sehen die anderen genauso. Abschaltbar auf streamo.fummel.eu unter Einstellungen → Komfort → Gemeinsam schauen. Filme und Serien bleiben privat.",
+  "published": "2026-10-26T13:01:43Z"
 }
