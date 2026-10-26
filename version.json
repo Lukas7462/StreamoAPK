@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 18,
-  "versionName": "1.9.2",
+  "versionCode": 19,
+  "versionName": "1.9.3",
   "minSdk": 23,
-  "sha256": "3c8cc3b9bd0cfd19b678ed161f6c868b9057d0dfc5a17d40b617d1b917c3be14",
-  "size": 3006851,
+  "sha256": "5be766f2e66e388f2d3395af1938964eba433d6ca1f24b740d0fddb5098c0023",
+  "size": 3006842,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Gemeinsam schauen: Wenn jemand anderes mit seinem Streamo-Konto gerade Live-TV schaut, erscheint oben kurz ein Hinweis, z. B. „Papa schaut gerade DAZN 1“ mit der laufenden Sendung. Was du selbst live schaust, sehen die anderen genauso. Abschaltbar auf streamo.fummel.eu unter Einstellungen → Komfort → Gemeinsam schauen. Filme und Serien bleiben privat.",
-  "published": "2026-10-26T13:01:43Z"
+  "notes": "Suche nach Programmnummer: Gib in der Suche einfach die Nummer eines Senders ein (z. B. 4859) – der Sender mit diesem Programmplatz steht dann ganz oben (4859 = DE: DAZN 1 RAW). Dazu: Gemeinsam schauen aus 1.9.2.",
+  "published": "2026-10-26T16:19:51Z"
 }
