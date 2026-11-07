@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "at.streamo.tv",
-  "versionCode": 19,
-  "versionName": "1.9.3",
+  "versionCode": 20,
+  "versionName": "1.9.4",
   "minSdk": 23,
-  "sha256": "5be766f2e66e388f2d3395af1938964eba433d6ca1f24b740d0fddb5098c0023",
-  "size": 3006842,
+  "sha256": "b2231ed957d99e3a21245c5b21de6319759f376fa7e067251895c1911e906bdb",
+  "size": 3006841,
   "certSha256": "e56db34d65d77111886292fa6eeb8dc0ba69060e33d0d6ab0b33a3168becece1",
-  "notes": "Suche nach Programmnummer: Gib in der Suche einfach die Nummer eines Senders ein (z. B. 4859) – der Sender mit diesem Programmplatz steht dann ganz oben (4859 = DE: DAZN 1 RAW). Dazu: Gemeinsam schauen aus 1.9.2.",
-  "published": "2026-10-26T16:19:51Z"
+  "notes": "Die aktive Quelle gehört jetzt zum Streamo-Konto: Wechsel in der App oder im Web gelten auf allen Geräten. Nur die aktive Quelle lädt Sender und Programm, die anderen bleiben ruhig. Der kleine graue Puffer-Hinweis im Player sitzt jetzt unten links.",
+  "published": "2026-11-07T19:34:12Z"
 }
